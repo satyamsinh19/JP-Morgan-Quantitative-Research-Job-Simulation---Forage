@@ -1,4 +1,4 @@
-<h1 align="center">JPMorgan Chase Quantitative Research Virtual Internship — Full Solution (Forage)</h1>
+<h1 align="center">JPMorgan Chase Quantitative Research Vitual Job Simulation — Full Solution (Forage)</h1>
 <h2 align="center">Natural Gas Pricing • Storage Contract Valuation • Credit Risk Modeling • FICO Bucketing</h2>
 
 A complete, end-to-end quantitative analytics project implementing time-series price estimation, commodity storage valuation, credit risk modeling, and FICO score quantization.
