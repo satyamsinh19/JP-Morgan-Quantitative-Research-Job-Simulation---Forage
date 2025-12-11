@@ -71,7 +71,7 @@ The model calculates total cash flows and outputs contract value.
 ### Key Model Output
 
 **Contract Value:**  
-- -9900.0
+-9900.0
 
 
 **Interpretation:**  
@@ -95,7 +95,7 @@ Recovery rate used: **10%**
 ### Key Output
 
 **Expected Loss:**  
-- 22497.71
+22497.71
 
 
 **Interpretation:**  
